@@ -2,7 +2,7 @@
   margin: 0 auto;
 }
 body {
-  background-color: #dcd6f7;
+  background-color: #b9d7ea;
 }
 main {
   margin: 0 auto;
@@ -11,7 +11,7 @@ main {
   text-align: center;
   border: 1px solid blue;
   border-radius: 3%;
-  background-color: #f4eeff;
+  background-color: #f7fbfc;
 }
 .input-list {
   height: 100px;
